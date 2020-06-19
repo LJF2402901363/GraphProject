@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/GraphProject/v15
+/.vs
+/Debug
+/GraphProject/Debug/GraphProject.tlog
